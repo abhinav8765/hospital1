@@ -1,0 +1,105 @@
+
+#nave_t{
+    color: red;
+    font-family: cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.navbar{
+    background-color: white;
+    font-family: sans-serif;
+}
+.nav-item{
+    font-size: 1.2rem;
+    font-family: serif;
+    color: black;
+}
+#middle{
+    background-color: red;
+}
+h2{
+    font-family: "ubuntu";
+}
+.container{
+    position: relative;
+    margin: 0px;
+    padding: 0px;
+    
+    
+}
+
+  .list{
+      
+      font-size: 1.5rem;
+      font-family: serif;
+      padding:7% 15%;
+  }
+  .logo{
+      padding-bottom: 7%;
+  }
+  .top-con{
+      padding: 2% 7%;
+  }
+  .title-image{
+
+
+      width: 100%;
+      
+  }
+
+
+  .doctors{
+      text-align: center;
+  }
+h3{
+     margin-left: 5px;
+     font-size: 40px;
+     font-family: cursive;
+     
+  }
+  .row{
+      padding: 7% 15%;
+    
+      background-color: #F7F7F7;
+  }
+
+
+  .address{
+      text-align: center;
+      padding: 7% 15%;
+      font-family: cursive;
+      font-weight: bold;
+      font-size: 75%;
+  }
+  .social-icon {
+    margin: 20px 10px;
+  }
+  
+  @media (max-width: 1028px) {
+  
+ #title {
+      text-align: center;
+    }
+  
+.title-image {
+      position: static;
+      transform: rotate(0);
+    }
+  }
+  .white-section {
+      text-align: center;
+    background-color: #fff;
+  }
+ .contact{
+     margin: 5%;  
+ }
+ .slogan{
+     background-color: red;
+     margin-top: 5%;
+     margin-bottom: 5%;
+     text-align: center;
+     font-size: 30px;
+     font-weight: bold;
+     
+ }
+ 
